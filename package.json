@@ -4,7 +4,7 @@
   "description": "Simplest node project to try out LambCI",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "exit 0"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/mhaji/lamb-ci-test/issues"
   },
-  "homepage": "https://github.com/mhaji/lamb-ci-test#readme"
+  "homepage": "https://github.com/mhaji/lamb-ci-test#readme",
+  "dependencies": {
+    "tape": "^4.6.0"
+  },
+  "devDependencies": {
+    "tape": "^4.6.0"
+  }
 }
