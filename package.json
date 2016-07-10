@@ -1,0 +1,22 @@
+{
+  "name": "lamb-ci-test",
+  "version": "1.0.0",
+  "description": "Simplest node project to try out LambCI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhaji/lamb-ci-test.git"
+  },
+  "keywords": [
+    "lambci"
+  ],
+  "author": "mhaji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhaji/lamb-ci-test/issues"
+  },
+  "homepage": "https://github.com/mhaji/lamb-ci-test#readme"
+}
